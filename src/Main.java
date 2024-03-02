@@ -18,7 +18,7 @@ public class Main {
 
         System.out.println(mitsubishi.startEngine());
 
-        System.out.println(mitsubishi.accelerate());
+        System.out.println(mitsubishi.accelerate());//
 
         System.out.println(mitsubishi.brake());
 
